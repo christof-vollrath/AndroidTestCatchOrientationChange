@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTestCatchOrientationChange</string>
+    <string name="redraw_label">Recreate app with current orientation</string>
 </resources>
